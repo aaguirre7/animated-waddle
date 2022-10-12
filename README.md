@@ -1,1 +1,1 @@
-#Pythoin tool to crawl pictures in instagram
+# Python tool to crawl and download all videos and picture sin a user instagram.
